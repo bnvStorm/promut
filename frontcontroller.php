@@ -31,6 +31,8 @@ if ($result->num_rows > 0) {
     $h1 = $row['h1'];	
     $content = $row['content'];	
     $id = $row['id'];
+    $image = $row['image'];
+    $price = $row['price'];
     }
 }  
 $conn->close();
