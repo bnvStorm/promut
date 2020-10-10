@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://promothod.kz/sitemap.xml
+Sitemap: https://promutil.kz/sitemap.xml
