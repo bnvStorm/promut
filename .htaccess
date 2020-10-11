@@ -3,6 +3,12 @@ RewriteEngine On
 
 RewriteBase /
 
+# remove php extensions
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 
@@ -17,7 +23,6 @@ RewriteRule ^(.*)$ ./frontcontroller.php?route=$1 [QSA,L]
 RewriteCond %{REQUEST_URI} ^/index$ [OR]
 RewriteCond %{REQUEST_URI} ^/index[.]+(\w+)$
     RewriteRule . / [R=301,L]
-
 
 
 #Запрещаем просмотр содержимого папки
@@ -42,6 +47,7 @@ deny from all
 order allow,deny
 deny from all
 </files>
+
 
 #caching
 <IfModule mod_expires.c>
