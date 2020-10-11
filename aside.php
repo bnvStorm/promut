@@ -14,7 +14,7 @@
                         <li class="cs-sub-nav__item csjs-sub-nav-item"><a class="cs-sub-nav__link" href="/g3163138-realizatsiya-produktov-pererabotki">Реализация продуктов переработки</a></li>
                      </ul>
                   </li>
-                  <li class="cs-nav__item csjs-nav-item"><a class="cs-nav__link" href="/about_us.php">О нас</a></li>
+                  <li class="cs-nav__item csjs-nav-item"><a class="cs-nav__link" href="/about_us">О нас</a></li>
                <!--    <li class="cs-nav__item csjs-nav-item"><a class="cs-nav__link" href="/testimonials">Отзывы</a></li> -->
                </ul>
             </nav>
