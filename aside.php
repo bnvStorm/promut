@@ -26,15 +26,15 @@
                   <a class="cs-online-edit__link" data-edit-role="companyInfo" title="Редактировать контактную информацию" style="display:none"></a><a class="cs-online-edit__vertical-borders" data-edit-role="companyInfo" style="display:none"></a><a class="cs-online-edit__horizontal-borders" data-edit-role="companyInfo" style="display:none"></a><span class="cs-contacts-aside__item" title="Компания"><br>ТОО "ПРОМОТХОД КАЗАХСТАН"</span>
                   <div id="ID-b8f2ffd4-9015-4233-ab45-750545e55be6" class="cs-contacts-aside__item" title="Телефоны">
                      <div class="cs-contacts-aside__phone js-ga-phone-hover" data-tg-hovered="[{&quot;ns&quot;: &quot;main&quot;, &quot;method&quot;: &quot;gatrackQueue&quot;, &quot;args&quot;: [&quot;contact_view&quot;, &quot;hover_phones&quot;, {&quot;label/label&quot;: &quot;company_site-cs_main_page&quot;}], &quot;uuid&quot;: &quot;6e12e555b6891ee7a926bb1710a414cf0daa0eab&quot;}, {&quot;ns&quot;: &quot;ym&quot;, &quot;method&quot;: &quot;reachGoal&quot;, &quot;args&quot;: [&quot;company_contacts_hovered&quot;], &quot;uuid&quot;: &quot;4e4e38200b10121d2620b45f0cb38f2ce6db161d&quot;}]">
-                        <div class="cs-contacts-aside__phones-single"><span class="notranslate cs-contacts-aside__comma">+77212424211</span></div>
+                        <div class="cs-contacts-aside__phones-single"><span class="notranslate cs-contacts-aside__comma"><a href="tel:+7 7212 42 42 11">+7 7212 42 42 11</a></span></div>
                      </div>
                      <div class="cs-contacts-aside__phone js-ga-phone-hover" data-tg-hovered="[{&quot;ns&quot;: &quot;main&quot;, &quot;method&quot;: &quot;gatrackQueue&quot;, &quot;args&quot;: [&quot;contact_view&quot;, &quot;hover_phones&quot;, {&quot;label/label&quot;: &quot;company_site-cs_main_page&quot;}], &quot;uuid&quot;: &quot;6e12e555b6891ee7a926bb1710a414cf0daa0eab&quot;}, {&quot;ns&quot;: &quot;ym&quot;, &quot;method&quot;: &quot;reachGoal&quot;, &quot;args&quot;: [&quot;company_contacts_hovered&quot;], &quot;uuid&quot;: &quot;4e4e38200b10121d2620b45f0cb38f2ce6db161d&quot;}]">
-                        <div class="cs-contacts-aside__phones-single"><span class="notranslate cs-contacts-aside__comma">+77212410029</span></div>
+                        <div class="cs-contacts-aside__phones-single"><span class="notranslate cs-contacts-aside__comma"><a href="tel:+7 7212 41 00 29">+7 7212 41 00 29</a></span></div>
                      </div>
                   </div>
-                  <span class="cs-contacts-aside__item" title="Контактное лицо">Петров Алексей </span>
+                  <span class="cs-contacts-aside__item" title="Контактное лицо">Юрий САВЧЕНКО</span>
                   <address class="cs-contacts-aside__item" title="Адрес"><span class="cs-contacts-aside__comma" title="Караганда">Караганда</span><span class="cs-contacts-aside__comma" title="Карагандинская область">Карагандинская область</span><span class="cs-contacts-aside__comma" title="пр. Бухар Жырау 47">пр. Бухар Жырау 47</span></address>
-                  <a class="cs-contacts-aside__item" href="mailto:in@qwmo.net" title="Email">in@qwmo.net</a><a class="cs-contacts-aside__item" href="https://www.promothod.kz" target="_blank" title="Сайт">www.promothod.kz</a>
+                  <a class="cs-contacts-aside__item" href="mailto: info@promothod.kz" title="Email"> info@promothod.kz</a><a class="cs-contacts-aside__item" href="https://www.promothod.kz" target="_blank" title="Сайт">www.promothod.kz</a>
                </div>
             </div>
             <div>
