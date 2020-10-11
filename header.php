@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+	<!-- Force IE 8/9/10 to use its latest rendering engine -->
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title><?php echo $title; ?></title>
-
 	<meta charset="utf-8">
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -13,7 +14,8 @@
 	<link rel="stylesheet" href="style/defoult_2.css">
 	<link rel="stylesheet" href="style/vendors.css">
 	<link rel="stylesheet" href="style/site_addons.css">
-
+	<meta name="yandex-verification" content="a779341a7db44c4e">
+	<meta name="google-site-verification" content="5zEIpS3t7-NpHfZBBbOTqjn0tjzRjEapvNb_SIp58MQ">
 </head>
 
 <body>
