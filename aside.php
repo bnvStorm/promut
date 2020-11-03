@@ -32,7 +32,7 @@
                         <div class="cs-contacts-aside__phones-single"><span class="notranslate cs-contacts-aside__comma"><a href="tel:+7 7212 41 00 29">+7 7212 41 00 29</a></span></div>
                      </div>
                   </div>
-                  <span class="cs-contacts-aside__item" title="Контактное лицо">Юрий САВЧЕНКО</span>
+                  <span class="cs-contacts-aside__item" title="Контактное лицо">Луиза Тайлашева</span>
                   <address class="cs-contacts-aside__item" title="Адрес"><span class="cs-contacts-aside__comma" title="Караганда">Караганда</span><span class="cs-contacts-aside__comma" title="Карагандинская область">Карагандинская область</span><span class="cs-contacts-aside__comma" title="пр. Бухар Жырау 47">пр. Бухар Жырау 47</span></address>
                   <a class="cs-contacts-aside__item" href="mailto: info@promothod.kz" title="Email"> info@promothod.kz</a><a class="cs-contacts-aside__item" href="https://www.promothod.kz" target="_blank" title="Сайт">www.promothod.kz</a>
                </div>
